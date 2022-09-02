@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Node Express Starter ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node express minimalist starter",
+    "Express",
+    "Starter Template"
+  ],
+  "author": "Saad Abbasi",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.19"
+  }
+}
